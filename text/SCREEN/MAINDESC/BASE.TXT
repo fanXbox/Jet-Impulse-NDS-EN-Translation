@@ -1,7 +1,7 @@
-Results_until
-now,Sound_and
-watching
-movies, 
+Resultsuntil
+now,Sound
+andwatching
+movies,
 aircraft
-purchase_and
+purchaseand
 downloads.

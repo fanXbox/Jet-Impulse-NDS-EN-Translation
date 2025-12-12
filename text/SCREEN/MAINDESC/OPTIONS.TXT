@@ -1,7 +1,7 @@
-Change_the 
-player_name.
+Changethe
+playername.
 Sound
 Settings.
-Allows_you
-to_erase 
-all_game_data.
+Allowsyou
+toeraseall
+gamedata.

@@ -1,8 +1,6 @@
 Description
-of_the
-various
-display
-objects, 
-such_as 
-radar_and
+ofdisplayed
+objects,
+suchas
+radarand
 sites.
