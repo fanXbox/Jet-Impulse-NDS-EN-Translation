@@ -1,9 +1,9 @@
-%3cEasy_airplane_operation%c
+%3cEasyairplaneoperation%c
 
-+up:%3cLower_the_nose%c
-+down:%3cRaise_the_nose%c
-+L/R:%3cSpin%c
-Abutton:%3cmissile%c
-Bbutton:%3cmachine_gun%c
-Xbuttn:%3cTarget_switching%c
-Ybuttn:%3cweapon_switch%c
++up:%3cLowerthenose%c
++down:%3cRaisethenose%c
++L/R:%3cSpin%c
+Abutton:%3cMissile%c
+Bbutton:%3cMachinegun%c
+Xbuttn:%3cTargetswitching%c
+Ybuttn:%3cWeaponswitch%c
