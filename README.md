@@ -3,6 +3,9 @@
 This is a fan translation project for the game 'Jet Impulse' for the Nintendo DS. The project aims to translate the game without including original copyrighted contents. This means that:
 All text in the repository only contain the custom made translated strings.
 
+The character encoded as a space has been identified.
+Notepad++ is recommended for reading original Japanese texts.
+
 # Build
 The process of building the translated ROM is:
 * Use dsLazy to unpack your rom
