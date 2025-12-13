@@ -1,0 +1,6 @@
+Unabletoconnectto
+NintendoWi-FiConnector.
+CheckyourWi-Fi
+connectionsettings.
+
+ERRORCODE:%d
