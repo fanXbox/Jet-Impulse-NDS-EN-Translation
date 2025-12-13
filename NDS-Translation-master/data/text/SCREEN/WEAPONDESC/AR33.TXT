@@ -1,0 +1,4 @@
+WEAPON2:%3cAR33%c
+Rocketswithawideattackarea,
+designedforgroundattacks.
+Itcannotlock-ontargets.

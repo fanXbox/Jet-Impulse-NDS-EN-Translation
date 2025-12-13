@@ -1,0 +1,4 @@
+WEAPON1:%3cAAM5A%c
+Obsoletegeneralpurposemissile.
+Itusesinfraredtracking.
+Lowperfomanceandpower.

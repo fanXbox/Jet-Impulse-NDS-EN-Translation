@@ -1,0 +1,4 @@
+WEAPON2:%3cAMM35%c
+Standardanti-airmissilewith
+mediumlock-onrange.
+EnhancedversionoftheAMM32.

@@ -1,0 +1,4 @@
+WEAPON2:%3cAGQT1%c
+Anti-surfacemissilethatlocks
+upto4targetsatonce.
+Ithasadecentrange.

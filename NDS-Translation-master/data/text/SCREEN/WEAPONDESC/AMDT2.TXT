@@ -1,0 +1,4 @@
+WEAPON2:%3cAMDT2%c
+Anti-aircraftmissilethatlocks
+upto2targetsatonce.
+EnhancedversionoftheAMDT1.

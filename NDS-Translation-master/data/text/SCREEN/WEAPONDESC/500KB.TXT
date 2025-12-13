@@ -1,0 +1,3 @@
+WEAPON2:%3c500KB(500KiloBomb)%c
+Unguidedfreefallbomb.Deals
+damageonasmallarea.

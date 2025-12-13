@@ -1,0 +1,4 @@
+WEAPON2:%3cAML79%c
+Longrangeanti-airmissilewith
+increaseddamage.
+EnhancedversionoftheAML72.

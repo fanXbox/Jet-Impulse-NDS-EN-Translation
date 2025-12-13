@@ -1,0 +1,4 @@
+WEAPON1:%3cAAMG2%c
+Anti-airmissilewithincreased
+powerandrange.
+EnhancedversionoftheAAMG1.

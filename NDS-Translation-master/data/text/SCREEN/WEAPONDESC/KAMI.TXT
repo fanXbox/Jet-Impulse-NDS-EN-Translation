@@ -1,0 +1,3 @@
+WEAPON2:%3cKAMI%c
+Obliterationmissile.
+KAMI

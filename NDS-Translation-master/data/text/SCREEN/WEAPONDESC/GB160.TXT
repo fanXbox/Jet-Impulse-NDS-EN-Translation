@@ -1,0 +1,4 @@
+WEAPON2:%3cGB160%c
+Abombwithlock-oncapacity.
+Inflictsheavydamageonasmall
+area.

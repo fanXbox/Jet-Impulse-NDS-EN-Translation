@@ -1,0 +1,3 @@
+WEAPON2:%3cMINE%c
+Aerialmine,notlisted.
+MINE

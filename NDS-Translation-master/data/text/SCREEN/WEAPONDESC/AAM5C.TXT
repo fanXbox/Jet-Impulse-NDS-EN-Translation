@@ -1,0 +1,4 @@
+WEAPON1:%3cAAM5C%c
+Standardgeneralpurposemissile.
+Itusesinfraredtracking.
+EnhancedversionoftheAAM5B.

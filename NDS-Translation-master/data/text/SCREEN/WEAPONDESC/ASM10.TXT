@@ -1,0 +1,3 @@
+WEAPON2:%3cASM10%c
+Noneonthelist.
+ASM10.

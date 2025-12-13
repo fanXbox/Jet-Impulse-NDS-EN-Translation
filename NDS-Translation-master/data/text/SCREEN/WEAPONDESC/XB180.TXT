@@ -1,0 +1,3 @@
+WEAPON2:%3cXB180%c
+Thermobaricbomb.
+XB180
