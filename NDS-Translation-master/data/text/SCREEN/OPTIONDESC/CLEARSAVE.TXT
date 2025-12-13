@@ -1,0 +1,2 @@
+Erasealldata,
+Initialize.

@@ -1,0 +1,5 @@
+%2cForVictory:%c
+Destroyalltargets
+
+%1cDefeat:%c
+DestroyedPlane
