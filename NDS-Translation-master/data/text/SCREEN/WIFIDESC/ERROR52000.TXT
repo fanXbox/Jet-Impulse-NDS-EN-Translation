@@ -1,0 +1,5 @@
+UnabletoconnecttoWi-Fi.
+CheckyourWi-Fi
+connectionsettings.
+
+ERRORCODE:%d

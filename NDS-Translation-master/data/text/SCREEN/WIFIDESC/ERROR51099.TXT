@@ -1,0 +1,5 @@
+Noaccesspointsavailable.
+CheckyourWi-Fi
+connectionsettings.
+
+ERRORCODE:%d
