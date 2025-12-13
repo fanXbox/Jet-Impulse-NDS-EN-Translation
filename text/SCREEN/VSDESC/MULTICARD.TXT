@@ -1,4 +1,0 @@
-%2cMultiplayer%c
-
-Battlesarefought
-usingmultipleDS

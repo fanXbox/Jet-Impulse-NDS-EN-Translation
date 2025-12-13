@@ -1,3 +1,0 @@
-Iftheweaponisabomb,itwill
-be%3cdisplayedattheexpected%c
-explosionpoint.

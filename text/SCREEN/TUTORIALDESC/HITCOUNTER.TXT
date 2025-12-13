@@ -1,4 +1,0 @@
-Indicatesthe
-numberof%3cenemy
-aircraftshotdown%c
-inthismission.
