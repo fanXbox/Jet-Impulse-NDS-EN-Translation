@@ -1,5 +1,5 @@
-%3cYZX07　HIPPOGRIFF%c
-Glove　Force　modified　AZX05,
-engine　enhancement.
-durability　was　improved.
-powerful　NextGen　fighter.
+%3cYZX07HIPPOGRIFF%c
+GloveForcemodifiedAZX05,
+engineenhancement.
+durabilitywasimproved.
+powerfulNextGenfighter.

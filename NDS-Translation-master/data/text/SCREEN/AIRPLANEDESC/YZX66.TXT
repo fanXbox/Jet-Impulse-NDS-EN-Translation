@@ -1,5 +1,5 @@
-%3cYZX66　NIGHTMARE%c
-Developed　Avalon　fighter.
-high:　durability/loading.
-specialize　in　stealthiness.
-Made　as　a　bomber!
+%3cYZX66NIGHTMARE%c
+DevelopedAvalonfighter.
+high:durability/loading.
+specializeinstealthiness.
+Madeasabomber!
