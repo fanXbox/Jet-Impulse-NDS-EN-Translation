@@ -1,7 +1,7 @@
 NOUSENOUSENOUSENOUSENOUSENOUSE
-Messagewillnotbeused.
-Noresponsefromthe
-opponent.Opponentmay
-bedisconnectedfromWi-Fi
-orremovedfromfriendslist.
+Message　will　not　be　used.
+No　response　from　the
+opponent.　Opponent　may
+be　disconnected　from　Wi-Fi
+or　removed　from　friends　list.
 ERRORCODE:%d

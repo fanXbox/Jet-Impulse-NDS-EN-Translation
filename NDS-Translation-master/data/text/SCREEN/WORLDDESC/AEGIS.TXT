@@ -1,4 +1,4 @@
-High-techequipment,suchas
-anti-shipmissiles,anti-aircraft
-missiles,andcomputer-control
-anti-aircraftguns.
+High-tech　equipment,　such　as
+anti-ship　missiles,　anti-aircraft
+missiles,　and　computer-control
+anti-aircraft　guns.
