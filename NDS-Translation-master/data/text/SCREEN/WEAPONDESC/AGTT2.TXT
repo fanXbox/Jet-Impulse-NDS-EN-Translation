@@ -1,4 +1,4 @@
-WEAPON2:%3cAGTT2%c
-Anti-surfacemissilethatlocks
-upto3targetsatonce.
-EnhancedversionoftheAGTT1.
+WEAPON2:@€%3cAGTT2%c
+Anti-surface@€missile@€that@€locks
+up@€to@€3@€targets@€at@€once.
+Enhanced@€version@€of@€the@€AGTT1.

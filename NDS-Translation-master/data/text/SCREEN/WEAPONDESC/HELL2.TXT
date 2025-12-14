@@ -1,4 +1,4 @@
-WEAPON2:%3cHELL2%c
-All-targettypemissilewith
-incredibledestructivepowerand
-lowhomingperfomance.
+WEAPON2:@€%3cHELL2%c
+All-target@€type@€missile@€with
+incredible@€destructive@€power@€and
+low@€homing@€perfomance.

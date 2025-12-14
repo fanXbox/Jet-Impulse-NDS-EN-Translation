@@ -1,4 +1,4 @@
-WEAPON2:%3cAMTT2%c
-Anti-airmissilethatlocksup
-to3targetatonce.
-EnhancedversionoftheAMTT1.
+WEAPON2:@€%3cAMTT2%c
+Anti-air@€missile@€that@€locks@€up
+to@€3@€target@€at@€once.
+Enhanced@€version@€of@€the@€AMTT1.

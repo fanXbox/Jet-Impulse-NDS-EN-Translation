@@ -1,4 +1,4 @@
-WEAPON2:%3c1000KB(1.0TonBomb)%c
-Unguidedfreefallbomb.Deals
-damageonalargearea.
-Upgradedversionof800KB.
+WEAPON2:@€%3c1000KB@€(1.0@€Ton@€Bomb)%c
+Unguided@€freefall@€bomb.@€Deals
+damage@€on@€a@€large@€area.
+Upgraded@€version@€of@€800KB.

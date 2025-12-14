@@ -1,4 +1,4 @@
-WEAPON2:%3cAMTT1%c
-Anti-airmissilethatlocksup
-to3targetatonce.
-Mediumrangeandgoodperformance.
+WEAPON2:@€%3cAMTT1%c
+Anti-air@€missile@€that@€locks@€up
+to@€3@€target@€at@€once.
+Medium@€range@€and@€good@€performance.

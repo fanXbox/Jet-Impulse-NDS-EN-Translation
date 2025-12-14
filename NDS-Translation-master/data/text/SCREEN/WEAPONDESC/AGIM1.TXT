@@ -1,4 +1,4 @@
-WEAPON2:%3cAGIM1%c
-Hightechanti-groundmissile
-withmediumrangedetectionand
-goodhomingperformance.
+WEAPON2:@€%3cAGIM1%c
+High@€tech@€anti-ground@€missile
+with@€medium@€range@€detection@€and
+good@€homing@€performance.

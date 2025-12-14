@@ -1,4 +1,4 @@
-WEAPON2:%3cAMMI9%c
-Mediumrangeanti-airmissile
-withhigh-technologysystems.
-EnhancedversionoftheAMMI7.
+WEAPON2:@€%3cAMMI9%c
+Medium@€range@€anti-air@€missile
+with@€high-technology@€systems.
+Enhanced@€version@€of@€the@€AMMI7.

@@ -1,3 +1,3 @@
-WEAPON1:%3cAAM7A%c
-Anti-airmissilewithgood
-trackingperformance.
+WEAPON1:@€%3cAAM7A%c
+Anti-air@€missile@€with@€good
+tracking@€performance.

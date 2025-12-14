@@ -1,4 +1,4 @@
-WEAPON2:%3cGSB58%c
-Anti-ship/surfaceguidedbomb
-withagoodpenetrationpower.
-EnhancedversionoftheGSB55.
+WEAPON2:@€%3cGSB58%c
+Anti-ship/surface@€guided@€bomb
+with@€a@€good@€penetration@€power.
+Enhanced@€version@€of@€the@€GSB55.
