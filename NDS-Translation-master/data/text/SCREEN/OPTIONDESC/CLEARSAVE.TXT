@@ -1,2 +1,2 @@
-Erasealldata,
+Erase@€all@€data,
 Initialize.
