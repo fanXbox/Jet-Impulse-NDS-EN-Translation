@@ -1,6 +1,6 @@
-You@€can@€change
-sound@€settings,
-control@€settings,
-change@€the@€name,
-and@€erase
-all@€data.
+Youcanchange
+soundsettings,
+controlsettings,
+changethename,
+anderase
+alldata.
