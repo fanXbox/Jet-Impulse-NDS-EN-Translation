@@ -1,6 +1,8 @@
-Akitsu's　supply
-base　is　under
-attack!
-New　enemy　weapons
-will　be　launched.
-Be　careful!
+AkitsuArmy'srearsupply
+basehasbeenattacked!
+Eliminatetheenemyand
+protectyourbase.
+Theenemy'snewweapon
+isbeingused.
+There'salsoamessage
+saying"Becareful!"

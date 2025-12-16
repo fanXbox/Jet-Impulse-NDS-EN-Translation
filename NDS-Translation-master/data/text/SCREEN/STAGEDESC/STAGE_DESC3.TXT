@@ -1,6 +1,7 @@
-You've　come　to
-Mardoch　as　Union
-peacekeepers.
-Stop　the　terrorist
-attack　and　protect
-the　oil　facility.
+AsUnionpeacekeepers,
+youarriveinMardukand
+findyourselfthrustinto
+combat.
+Stopaterroristattack
+attemptingtodestroy
+theoilbase.

@@ -1,7 +1,6 @@
-Capture　Lotus,
-a　fortified　city
-in　Middgard.
-Destroy　the
-jammer　vehicles
-and　support　the
-ground　forces.
+CaptureLotusCity,a
+fortifiedcityinMidgart.
+Supportgroundtroops
+towardthecitadel.
+Destroytheradio
+jammingweapon.

@@ -1,6 +1,5 @@
-Protect　the　ground
-troops　attacking
-the　hostiles,　then
-Discover　and
-destroy　the　secret
-terrorist　base!
+Escortgroundforcesto
+theterroristbase.
+Then,discoverand
+destroyanysecret
+baseshidingnearby!
