@@ -1,2 +1,1 @@
-Set@€the@€sound.
-
+Configurethesoundsettings.

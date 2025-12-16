@@ -1,2 +1,1 @@
-Erase@€all@€data,
-Initialize.
+Erasealldataandrestartthedevice.

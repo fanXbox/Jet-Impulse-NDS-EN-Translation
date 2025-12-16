@@ -1,2 +1,1 @@
-Reset　it　to　the　initial　state.
-
+Resettotheinitialstate.
