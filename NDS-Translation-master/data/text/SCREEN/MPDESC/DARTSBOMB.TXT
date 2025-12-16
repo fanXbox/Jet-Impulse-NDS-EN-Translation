@@ -1,10 +1,10 @@
-%3cDarts　Boomb%c
-The　mission　where　you
-drop　bombs　on　ground
-targets.
-Higher　scores　are
-awarded　for　hitting　the
-targets　in　the　center,
-if　the　target　is　lit
-red,　your　score
-is　doubled.
+%3cDartsBoomb%c
+Amissioninwhichyoushootbombs
+atdarttargetsplacedonthe
+ground.
+Gettingbombsclosertothecenter
+ofthetargetwillearnyouahigher
+score.Shootingadarttargetthat
+glowsredwilldoubleyourscore.
+Getasmanypointsaspossiblewithin
+thetimelimit!

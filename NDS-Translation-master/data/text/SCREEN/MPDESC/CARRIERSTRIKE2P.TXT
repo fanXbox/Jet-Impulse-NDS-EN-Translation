@@ -1,6 +1,6 @@
-%3cキャリアストライク%c
-相手チームの空母を
-撃沈するミッション。
+%3cCarrierStrike%c
+Amissiontosinktheopposing
+team'saircraftcarrier.
 
-より早く空母を倒し、
-勝利を手にせよ。
+Destroythecarrierfasterand
+securevictory.

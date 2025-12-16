@@ -1,7 +1,6 @@
-%3cキャリアストライク%c
-２対２のチームに分かれ、
-相手チームの空母を撃沈する
-ミッション。
+%3cCarrierStrike%c
+Divideintotwo-on-twoteamsandsink
+theopposingteam'saircraftcarrier.
 
-より早く空母を倒し、
-勝利を手にせよ。
+Destroythecarrierfasterto
+securevictory.

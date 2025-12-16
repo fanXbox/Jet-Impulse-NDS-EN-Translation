@@ -1,5 +1,5 @@
-%2cFor　Victory:%c
-Destroy　all　the　balloons
+%2cSuccessConditions:%c
+Destroyalltheballoons
 
-%1cDefeat:%c
-Destroyed　Plane
+%1cFailConditions:%c
+Destroyyourplane

@@ -1,5 +1,6 @@
-%3cバトルロイヤル%c
-プレイヤー同士で戦い、
-撃墜数を競うミッション。
-ライバルを最も多く撃墜して
-１位を目指せ！
+%3cBattleRoyale%c
+Playerscompeteagainsteachother
+inthismissiontoseewhocanshoot
+downthemostenemies.
+Shootdownthemostrivalsand
+takefirstplace!

@@ -1,6 +1,6 @@
-%2cFor　Victory:%c
-Enemy　forces　defeated
+%2cSuccessConditions:%c
+Eliminateenemyforces.
 
-%1cDefeat:%c
-Time's　up
-Destroyed　Plane
+%1cFailConditions:%c
+Destroyyourplane
+Time-out.

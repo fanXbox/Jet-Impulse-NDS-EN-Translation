@@ -1,5 +1,6 @@
-%3cチームバトル%c
-２対２のチームに分かれ、
-撃墜数を競うミッション。
-ライバルを最も多く撃墜して
-１位を目指せ！
+%3cTeamBattle%c
+Divideintotwo-on-twoteams
+andcompeteforthemost
+killsinthismission.
+Shootdownthemostrivals
+andaimforfirstplace!
