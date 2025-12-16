@@ -1,5 +1,4 @@
-%3cFor　advanced　users%c　mode.
-weapon　loading　capability.
-low　endurance,　stronger
-enemies.　A　tough　fight　will
-be　deployed.
+Thismodeisfor%3cexperiencedplayers%c.
+You'llfacestrongerenemiesandhave
+limitedmilitaryequipmentandstamina.
+It'satoughbattle.

@@ -1,5 +1,4 @@
-%3cFor　intermediate　level%c　mode.
-Limit　on　the　number　of
-bullets.　Normal　and　a
-different　battle
-You　can　taste.
+Thismodeisfor%3cintermediateplayers%c.
+Weaponshavelimitedammo,allowingyou
+toexperienceaslightlydifferentstyle
+ofbattlethannormal.
