@@ -1,5 +1,5 @@
 %3cYZX66　NIGHTMARE%c
-Developed　Avalon　fighter.
-high:　durability/loading.
-specialize　in　stealthiness.
-Made　as　a　bomber!
+InitiallydevelopedbyAvalonasafighter,
+butitsruggednessandhighpayload
+capacityledtoitbeingconverted
+intoastealthbomber.

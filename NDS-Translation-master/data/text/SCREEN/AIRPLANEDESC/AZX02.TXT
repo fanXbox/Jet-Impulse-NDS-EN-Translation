@@ -1,5 +1,5 @@
 %3cAZX02　FIRELIZARD%c
-Fighter　Akitsu　fighter.
-used　as　training　machine.
-Mobility　to　AZX03　by　Avalon.
-mounting　power　is　low.
+FighterdesignedbyFudo,producedbyAkitsu,
+usedasatrainingaircraft.Ithad
+superiormaneuverabilitytotheAvalonAZX03,
+butwithareducedpayload.

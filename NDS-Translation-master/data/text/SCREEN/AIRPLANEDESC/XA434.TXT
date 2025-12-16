@@ -1,5 +1,5 @@
 %3cXA434　PRIAMOS%c
-Union　machine　by　Neopax.
-small:　size　and　turning.
-stealthy,　but　low　speed.
-anxiety　about　stability.
+Small,maneuverableUnionaircraftdeveloped
+byNeopax,withvectorednozzles.Ithas
+stealthcapabilities,butitsstabilityatlow
+speedsissomewhatquestionable.

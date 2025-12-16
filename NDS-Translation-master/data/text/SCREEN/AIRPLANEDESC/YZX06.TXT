@@ -1,5 +1,5 @@
 %3cYZX06　SALAMANDER%c
-improved　version　of　YZX04
-Low　speed　stability.
-performance　is　lacking、
-acquired　stealthiness　newly.
+ImprovedandstealthyversionoftheYZX04,
+withasignificantlyrevisedengineand
+controlsystem.Overallperformancehas
+improved,althoughitlackslow-speedstability.

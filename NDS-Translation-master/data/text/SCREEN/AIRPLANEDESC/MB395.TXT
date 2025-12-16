@@ -1,5 +1,5 @@
 %3cMB395　FREY%c
-MB387　evolved　fighter.
-increases　armed　ability,
-strength　computer　control.
-Improvements　in　capacity.
+AdvancedversionoftheMB387.Robustness
+wassacrificedtoimproveitsarmament
+capabilities,andimprovedcomputercontrol
+alsoimproveditsmobility.

@@ -1,5 +1,5 @@
 %3cYZX07　HIPPOGRIFF%c
-Glove　Force　modified　AZX05,
-engine　enhancement.
-durability　was　improved.
-powerful　NextGen　fighter.
+GlobeForcehasmodifiedtheAZX05,adding
+computercontrolandstrengthening
+itsenginetofurtherenhancedurability.
+It'sapowerful,next-generationfighter.

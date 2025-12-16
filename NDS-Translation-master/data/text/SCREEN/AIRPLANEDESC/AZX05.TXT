@@ -1,5 +1,5 @@
 %3cAZX05　GROSPHOS%c
-Avalon　mainstay fighter.
-slightly　slow　stability.
-Attack　multiple　goals.
-multi-missiles　support.
+Avalon'smainfighter.Consistentperformance,
+butunstableatlowspeeds.Itcanbe
+equippedwithmultiplemissiles,allowingit
+toengagemultipletargetssimultaneously.

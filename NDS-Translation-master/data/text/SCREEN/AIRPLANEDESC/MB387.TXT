@@ -1,5 +1,5 @@
 %3cMB387@€HEIMDALL%c
-Midgart@€against@€AZX05
-multi@€roll@€fighter.
-are@€inferior@€to@€AZX@€05,
-have@€high-tech@€weapons.
+Multi-rolefighterdevelopedbyMidgardto
+competewiththeAZX05.Ithaslower
+accelerationandendurancethantheAZX05,
+butiscompatiblewithhigh-techweapons.
