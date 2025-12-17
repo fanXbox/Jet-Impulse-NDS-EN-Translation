@@ -1,7 +1,7 @@
-Wi-Ficonn@€ction
-IDd@€l@€t@€ddu@€to
-prolong@€dinactivity.
-Formor@€d@€tails,
-s@€@€th@€manual.
+Wi-Ficonnction
+IDdltdduto
+prolongdinactivity.
+Formordtails,
+sthmanual.
 
 ERRORCODE:%d

@@ -1,4 +1,4 @@
 WEAPON2:@€%3cAGIM3%c
-High@€tech@€anti-ground@€missile
-with@€medium/long@€range@€detection.
-Enhanced@€version@€of@€the@€AGIM1.
+Hightechanti-groundmissile
+withmedium/longrangedetection.
+EnhancedversionoftheAGIM1.

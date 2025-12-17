@@ -1,4 +1,4 @@
-AÅ@Äcommunication
-errorÅ@Äoccurred.
+Acommunication
+erroroccurred.
 
 ERRORCODE:%d

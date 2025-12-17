@@ -1,4 +1,4 @@
 WEAPON2:@€%3cCB3%c
-Free-fall@€cluster@€bomb@€with
-increased@€range@€and@€power.
-Enhanced@€version@€of@€the@€CB2.
+Free-fallclusterbombwith
+increasedrangeandpower.
+EnhancedversionoftheCB2.

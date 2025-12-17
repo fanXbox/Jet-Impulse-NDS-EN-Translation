@@ -1,4 +1,4 @@
 WEAPON2:@€%3cCB2%c
-Free-fall@€cluster@€bomb@€that
-splits@€into@€small@€bomblets@€over
-a@€very@€wide@€area.
+Free-fallclusterbombthat
+splitsintosmallbombletsover
+averywidearea.

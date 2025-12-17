@@ -1,4 +1,4 @@
 WEAPON1:@€%3cAAM7C%c
-Anti-air@€missile@€wit@€excellent
-tracking@€performance@€and@€power.
-Enhanced@€version@€of@€the@€AAM7B.
+Anti-airmissilewitexcellent
+trackingperformanceandpower.
+EnhancedversionoftheAAM7B.

@@ -1,4 +1,4 @@
-Wi-Fi　disconnection　due　to
-a　communication　error.
+Wi-Fidisconnectiondueto
+acommunicationerror.
 
 ERRORCODE:%d

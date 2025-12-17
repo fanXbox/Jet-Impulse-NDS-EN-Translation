@@ -1,4 +1,4 @@
 WEAPON2:@€%3cAMQT2%c
-Anti-air@€missile@€that@€locks@€up
-to@€4@€target@€at@€once.
-Enhanced@€version@€of@€the@€AMQT1.
+Anti-airmissilethatlocksup
+to4targetatonce.
+EnhancedversionoftheAMQT1.

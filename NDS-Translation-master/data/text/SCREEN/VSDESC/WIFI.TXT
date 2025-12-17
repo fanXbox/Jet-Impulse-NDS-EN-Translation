@@ -1,5 +1,5 @@
 %2cWi-Fi%c
 
-play　against　other
-players　connected
-via　Wi-Fi
+playagainstother
+playersconnected
+viaWi-Fi

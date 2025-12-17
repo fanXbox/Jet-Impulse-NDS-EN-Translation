@@ -1,3 +1,3 @@
 WEAPON2:@€%3cAMM32%c
-Outdated@€anti-air@€missile@€with
-medium@€lock-on@€range.
+Outdatedanti-airmissilewith
+mediumlock-onrange.

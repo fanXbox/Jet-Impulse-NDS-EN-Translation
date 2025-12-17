@@ -1,4 +1,4 @@
 WEAPON1:@€%3cAAM5B%c
-Outdated@€general@€purpose@€missile.
-It@€uses@€infrared@€tracking.
-Enhanced@€version@€of@€the@€AAM5A.
+Outdatedgeneralpurposemissile.
+Itusesinfraredtracking.
+EnhancedversionoftheAAM5A.

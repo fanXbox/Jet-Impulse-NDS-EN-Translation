@@ -1,4 +1,4 @@
 WEAPON2:@€%3cAR35%c
-Rockets@€with@€a@€wide@€attack@€area
-and@€increased@€destructive@€power.
-Enhanced@€version@€of@€the@€AR33.
+Rocketswithawideattackarea
+andincreaseddestructivepower.
+EnhancedversionoftheAR33.

@@ -1,4 +1,4 @@
 WEAPON2:@€%3cGSB55%c
-Anti-ship/surface@€guided@€bomb
-with@€medium@€range@€and@€good
-penetration@€power.
+Anti-ship/surfaceguidedbomb
+withmediumrangeandgood
+penetrationpower.

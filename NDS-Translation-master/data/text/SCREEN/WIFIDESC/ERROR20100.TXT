@@ -1,5 +1,5 @@
-Unable　to　connect
-to　Wi-Fi.　See　the
-guide　for　details.
+Unabletoconnect
+toWi-Fi.Seethe
+guidefordetails.
 
 ERRORCODE:%d

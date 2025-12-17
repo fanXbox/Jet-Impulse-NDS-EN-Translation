@@ -1,7 +1,7 @@
-Unable　to　connect　due
-to　Wi-Fi　congestion　or
-a　service　interruption.
-Please　wait　and
-try　again.
+Unabletoconnectdue
+toWi-Ficongestionor
+aserviceinterruption.
+Pleasewaitand
+tryagain.
 
 ERRORCODE:%d
