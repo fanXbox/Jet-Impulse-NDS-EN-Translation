@@ -1,3 +1,2 @@
-A descriptionofthe
-worldandthe
-characters.
+A descriptionoftheworld
+andthecharacters.
