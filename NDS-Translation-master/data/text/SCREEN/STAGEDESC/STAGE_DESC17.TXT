@@ -2,7 +2,7 @@ AkitsuArmy'srearsupply
 basehasbeenattacked!
 Eliminatetheenemyand
 protectyourbase.
-Theenemy'snewweapon
-isbeingused.
-There'salsoamessage
-saying"Becareful!"
+Thereisalsoinformation
+thattheenemyis
+introducingnewweapons.
+Becareful!
