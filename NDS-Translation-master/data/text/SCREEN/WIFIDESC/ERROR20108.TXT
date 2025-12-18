@@ -1,7 +1,6 @@
-Wi-Ficonnction
-IDdltdduto
-prolongdinactivity.
-Formordtails,
-sthmanual.
+YourWi-FiconnectionIDhasbeen
+deletedduetoextendedinactivity.
+Pleaserefertoyourguidebook
+fordetails.
 
 ERRORCODE:%d

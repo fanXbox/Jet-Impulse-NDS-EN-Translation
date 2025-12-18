@@ -1,2 +1,1 @@
-Waitforthe
-otherplayers.
+Waitfortheotherplayers.

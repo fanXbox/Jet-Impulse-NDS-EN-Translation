@@ -1,4 +1,2 @@
-ConnecttoWi-Fito
-playagainstother
-playersconnected
-toWi-Fi.
+ConnecttoWi-Fitoplayagainst
+otherplayersconnectedtoWi-Fi.

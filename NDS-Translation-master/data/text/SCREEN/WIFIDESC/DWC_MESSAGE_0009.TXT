@@ -1,5 +1,3 @@
-Yourplayername
-isincompatible
+Yourplayernameisincompatible
 withWi-Fi.
-Changeyourname
-andtryagain.
+Changeyournameandtryagain.

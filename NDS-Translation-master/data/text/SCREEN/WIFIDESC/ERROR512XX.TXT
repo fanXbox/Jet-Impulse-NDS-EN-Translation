@@ -1,6 +1,5 @@
-Connectionfailed
-becausetheaccess
-pointisbusy.Please
-waitandtryagain.
+Connectionfailedbecause
+theaccesspointisbusy.
+Pleasewaitandtryagain.
 
 ERRORCODE:%d

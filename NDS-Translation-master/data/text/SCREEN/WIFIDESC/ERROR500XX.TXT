@@ -1,6 +1,5 @@
 Noaccesspointfound.
-Moveclosertothe
-accesspointand
-tryagain.
+Moveclosertotheaccesspoint
+andtryagain.
 
 ERRORCODE:%d

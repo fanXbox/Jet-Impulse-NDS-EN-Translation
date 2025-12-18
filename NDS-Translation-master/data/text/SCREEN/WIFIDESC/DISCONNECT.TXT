@@ -1,2 +1,2 @@
-Theopponenthas
-disconnectedfromWi-Fi.
+Theopponenthasdisconnected
+fromWi-Fi.

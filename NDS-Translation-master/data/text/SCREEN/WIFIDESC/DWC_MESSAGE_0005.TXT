@@ -1,4 +1,3 @@
-Wi-Fiinformationfor
-consoleandDScard
-differs,cannot
+Wi-Fiinformationforconsole
+andDScarddiffers,cannot
 connecttoWi-Fi.

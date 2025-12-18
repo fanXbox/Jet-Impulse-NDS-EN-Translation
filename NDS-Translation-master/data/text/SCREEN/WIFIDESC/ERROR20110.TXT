@@ -1,5 +1,4 @@
 Wi-Fiserviceinterrupted.
-Thankyouforusing
-theservice.
+Thankyouforusingtheservice.
 
 ERRORCODE:%d

@@ -1,2 +1,1 @@
-Disconnecting
-fromWi-Fi.
+DisconnectingfromWi-Fi.

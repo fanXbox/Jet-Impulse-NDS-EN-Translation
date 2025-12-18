@@ -1,5 +1,4 @@
 Noaccesspointsavailable.
-CheckyourWi-Fi
-connectionsettings.
+CheckyourWi-Ficonnectionsettings.
 
 ERRORCODE:%d
