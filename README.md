@@ -20,6 +20,7 @@ Progress:
 * Updating menus
 * Updating manual
 * Updating options
+* Updating radio messages
 * Updating the descriptions (planes, weapons, nations, factions and characters)...
 * Updating the nametag
 * added translation of game icon title
